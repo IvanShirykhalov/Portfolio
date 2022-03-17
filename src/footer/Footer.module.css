@@ -1,0 +1,20 @@
+.footerBlock {
+    min-height: 25vh;
+    background-color: yellowgreen;
+}
+
+.footerContainer {
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.someFields {
+    border: 1px solid;
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

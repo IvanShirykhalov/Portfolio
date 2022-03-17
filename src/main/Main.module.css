@@ -1,0 +1,26 @@
+
+.mainBlock {
+    min-height: 40vh;
+    background-color: #6e19c2;
+    display: flex;
+    align-items: center;
+}
+
+.mainContainer {
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.text {
+    width: 300px;
+    background-color: aquamarine;
+
+}
+
+.photo {
+    width: 300px;
+    height: 400px;
+    background-color: #132d25;
+}
+

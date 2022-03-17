@@ -1,0 +1,16 @@
+.teleworkBlock {
+    min-height: 25vh;
+    background-color: #558d4f;
+}
+
+.title {
+    background-color: rgba(220, 101, 182, 0.96);
+}
+
+
+.teleworkContainer {
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+}
