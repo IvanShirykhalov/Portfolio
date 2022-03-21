@@ -1,12 +1,12 @@
 .worksBlock {
-    min-height: 50vh;
+    justify-content: space-around;    min-height: 50vh;
     background-color: #c99879;
 }
 
 .worksContainer {
     align-items: center;
     flex-direction: column;
-    justify-content: space-around;
+
 }
 
 .title {
